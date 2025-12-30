@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-[Orion](https://altynkasym.github.io/Orion/)
+[Orion](https://altynalym.github.io/Orion/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
